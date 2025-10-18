@@ -1,2 +1,2 @@
 # GitHub-Intro
-GitHub Basics
+This repo contains a simple python program. :>
